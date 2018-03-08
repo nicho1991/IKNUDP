@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="IKNServerUDP/IKNServerUDP.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IKNServerUDP/Program.cs">
+    <Files>
+      <File FileName="IKNServerUDP/Program.cs" Line="60" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
