@@ -1,0 +1,5 @@
+/root/Desktop/IKNClientUDP/IKNClientUDP/IKNClientUDP/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/Desktop/IKNClientUDP/IKNClientUDP/IKNClientUDP/bin/Debug/IKNClientUDP.exe.mdb
+/root/Desktop/IKNClientUDP/IKNClientUDP/IKNClientUDP/bin/Debug/IKNClientUDP.exe
+/root/Desktop/IKNClientUDP/IKNClientUDP/IKNClientUDP/obj/x86/Debug/IKNClientUDP.exe
+/root/Desktop/IKNClientUDP/IKNClientUDP/IKNClientUDP/obj/x86/Debug/IKNClientUDP.exe.mdb

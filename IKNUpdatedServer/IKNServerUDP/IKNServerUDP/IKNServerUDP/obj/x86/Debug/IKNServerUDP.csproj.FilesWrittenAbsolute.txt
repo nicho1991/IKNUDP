@@ -1,0 +1,5 @@
+/root/Desktop/IKNServerUDP/IKNServerUDP/IKNServerUDP/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/root/Desktop/IKNServerUDP/IKNServerUDP/IKNServerUDP/bin/Debug/IKNServerUDP.exe.mdb
+/root/Desktop/IKNServerUDP/IKNServerUDP/IKNServerUDP/bin/Debug/IKNServerUDP.exe
+/root/Desktop/IKNServerUDP/IKNServerUDP/IKNServerUDP/obj/x86/Debug/IKNServerUDP.exe
+/root/Desktop/IKNServerUDP/IKNServerUDP/IKNServerUDP/obj/x86/Debug/IKNServerUDP.exe.mdb
